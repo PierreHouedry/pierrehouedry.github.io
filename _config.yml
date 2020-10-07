@@ -65,7 +65,7 @@ author:
   bio              : "PhD student under the supervision of Bernard Le Stum and Jérôme Poineau. I am currently working on twisted differentials operators."
   location         : "Rennes & Caen"
   employer         :
-  email            : pierre.houedry@unicaen.fr
+  email            : "pierre.houedry@unicaen.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -74,7 +74,7 @@ author:
   flickr           :
   foursquare       :
   keybase          :
-  instagram        :frip0n
+  instagram        :"@frip0n"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
