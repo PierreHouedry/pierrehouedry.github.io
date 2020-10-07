@@ -11,34 +11,39 @@ redirect_from:
 
 Education
 ======
-* M2 de Cryptographie parcours recherche, Université de Rennes 1, 2019-2020
-* M2 de Mathématiques parcours algèbre et géométrie, Université de Rennes 1, 2018-2019
+* Master 2 of Cryptography, parcours recherche, Université de Rennes 1, 2019-2020
+* Master 2 of Mathematics, algebra and geometry speciality, Université de Rennes 1, 2018-2019
 * Magistère de Mathématiques, Ecole Normale Supérieure de Rennes, 2016-2019
 * Licence de Mathématiques, Université de Rennes 1, 2014-2017
 
 Research experience
 ======
-*Stage d'études en 2020
-  *Etude de l'article: q-differences and p-adic local monodromy de Yves André et Lucia Di Vizio,
-  *3 mois à l'IRMAR,
-  *sous la tutelle de Bernard Le Stum
+* Internship, 2020
+  * Study of the article: q-differences and p-adic local monodromy by Yves André and Lucia Di Vizio,
+  * 3 months at IRMAR in Rennes,
+  * under the supervision of Bernard Le Stum
+  
+* Internship, 2019
+  * On floating-point arithmetic for sampling discrete gaussian distributions
+  * 5 months at IRISA in Rennes,
+  * under the supervision of e Adeline Roux-Langois and Mohamed Sabt.
 
-*Stage d'études en 2018 
-  *Etude des articles: A Version of the Grothendieck Conjecture for p-adic local fields de
-Shinichi Mochizuki et A note on the geometricity of open homomorphisms between the
-absolute Galois group of p-adic local fields de Yuichiro Hoshi,
-  *2 mois à The university of Tokyo, 
-  *sous la tutelle de Atsushi Shiho.
+* Internship 2018 
+  * Study of the articles: A Version of the Grothendieck Conjecture for p-adic local fields by
+Shinichi Mochizuki and A note on the geometricity of open homomorphisms between the
+absolute Galois group by p-adic local fields of Yuichiro Hoshi,
+  * 2 months at The university of Tokyo, 
+  * under the supervision of Atsushi Shiho.
 
-*Stage d'études en 2016
-  *Introduction à la théorie de Galois différentielle et étude de l’article: On Schanuel’s conjectures de James Ax,
-  *1 mois et demi au Laboratoire de Mathématiques Nicolas Oresme à Caen,
-  *sous la tutelle de Jérôme Poineau.
+* Internship, 2016
+  * Introduction to Galois's differential theory and study of the article: On Schanuel’s conjectures by James Ax,
+  * 1 month and a half at Laboratoire de Mathématiques Nicolas Oresme in Caen,
+  * under the supervision of Jérôme Poineau.
 
-* Stage d'études optionel en 2014  
-  *Initiation à la théorie des fonctions holomorphes,
-  *1 mois et demi à l’IRMAR,
-  *sous la tutelle de Vincent Mineo.
+* Internship, 2014  
+  * Introduction to the theory of holomorphic functions
+  * 1 month and a half at IRMAR in Rennes,
+  * under the supervision of Vincent Mineo.
   
   
 
