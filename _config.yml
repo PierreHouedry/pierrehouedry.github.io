@@ -60,12 +60,12 @@ yandex_site_verification :
 
 # Site Author
 author:
-  name             : "Pierre Houedry"
+  name             : "Pierre Houédry"
   avatar           : "profilmoi.jpg"
   bio              : "PhD student under the supervision of Bernard Le Stum and Jérôme Poineau. I am currently working on twisted differentials operators."
   location         : "Rennes & Caen"
   employer         :
-  email            :
+  email            : pierre.houedry@unicaen.fr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -74,7 +74,7 @@ author:
   flickr           :
   foursquare       :
   keybase          :
-  instagram        :
+  instagram        :@frip0n
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
