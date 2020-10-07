@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M2 de Cryptographie parcours recherche, Université de Rennes 1, 2019-2020
+* M2 de Mathématiques parcours algèbre et géométrie, Université de Rennes 1, 2018-2019
+* Magistère de Mathématiques, Ecole Normale Supérieure de Rennes, 2016-2019
+* Licence de Mathématiques, Université de Rennes 1, 2014-2017
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Stage d'études en 2020
+  *Etude de l'article: q-differences and p-adic local monodromy de Yves André et Lucia Di Vizio,
+  *3 mois à l'IRMAR,
+  *sous la tutelle de Bernard Le Stum
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Stage d'études en 2018 
+  *Etude des articles: A Version of the Grothendieck Conjecture for p-adic local fields de
+Shinichi Mochizuki et A note on the geometricity of open homomorphisms between the
+absolute Galois group of p-adic local fields de Yuichiro Hoshi,
+  *2 mois à The university of Tokyo, 
+  *sous la tutelle de Atsushi Shiho.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*Stage d'études en 2016
+  *Introduction à la théorie de Galois différentielle et étude de l’article: On Schanuel’s conjectures de James Ax,
+  *1 mois et demi au Laboratoire de Mathématiques Nicolas Oresme à Caen,
+  *sous la tutelle de Jérôme Poineau.
+
+* Stage d'études optionel en 2014  
+  *Initiation à la théorie des fonctions holomorphes,
+  *1 mois et demi à l’IRMAR,
+  *sous la tutelle de Vincent Mineo.
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
