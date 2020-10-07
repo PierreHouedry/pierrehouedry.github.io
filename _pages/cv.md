@@ -24,7 +24,7 @@ Research experience
   * under the supervision of Bernard Le Stum
   
 * Internship, 2019
-  * On floating-point arithmetic for sampling discrete gaussian distributions
+  * On floating-point arithmetic for sampling discrete gaussian distributions,
   * 5 months at IRISA in Rennes,
   * under the supervision of e Adeline Roux-Langois and Mohamed Sabt.
 
@@ -41,7 +41,7 @@ absolute Galois group by p-adic local fields of Yuichiro Hoshi,
   * under the supervision of Jérôme Poineau.
 
 * Internship, 2014  
-  * Introduction to the theory of holomorphic functions
+  * Introduction to the theory of holomorphic functions,
   * 1 month and a half at IRMAR in Rennes,
   * under the supervision of Vincent Mineo.
   
