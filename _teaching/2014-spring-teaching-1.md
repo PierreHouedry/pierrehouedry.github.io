@@ -7,7 +7,3 @@ venue: "Université de Rennes 1"
 date: 2021
 location: "Rennes"
 ---
-Fichiers pour le cours
-<a href=" pierrehouedry.github.io/_teaching/AP2-exo-n°1(1).pdf " target="_blank">Feuille de TD1.</a>
-<a href=" pierrehouedry.github.io/_teaching/AP2-exo-n°1.pdf " target="_blank">Indications pour TD1.</a>
-
