@@ -9,4 +9,3 @@ location: "Rennes"
 ---
 [Feuille de TD1](pierrehouedry.github.io/files/AP2TD1.pdf)
 [Indications 1](pierrehouedry.github.io/files/AP2I1.pdf)
-[Test](pierrehouedry.github.io/files/paper1.pdf)
