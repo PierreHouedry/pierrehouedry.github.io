@@ -7,5 +7,5 @@ venue: "Université de Rennes 1"
 date: 04-01-2021
 location: "Rennes"
 ---
-pierrehouedry.github.io/files/AP2-exo-n°1(1).pdf
+[Feuille de TD1](pierrehouedry.github.io/files/AP2-exo-n°1(1).pdf)
 <a href=" pierrehouedry.github.io/_teaching/AP2-exo-n°1.pdf " target="_blank">Indications 1</a>
