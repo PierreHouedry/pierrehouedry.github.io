@@ -63,7 +63,7 @@ const CONFIG = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-  'Mathematics','Problem solving','Scientific Communication','Tensorflow','Python','Machine Learning', 'Deep Learning','Scikit-Learn'
+  'Mathematics','Problem solving','Scientific Communication','Tensorflow','Python','Machine Learning', 'Deep Learning','Scikit-Learn','Research','Cryptography'
   ],
   experiences: [
     {
