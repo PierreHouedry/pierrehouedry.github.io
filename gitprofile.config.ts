@@ -38,7 +38,7 @@ const CONFIG = {
   seo: {
     title: 'Pierre Houedry',
     description: '',
-    imageURL: '',
+    imageURL: 'https://em-content.zobj.net/source/apple/354/man-scientist_1f468-200d-1f52c.png',
   },
   social: {
     linkedin: 'pierre-houedry',
