@@ -174,7 +174,7 @@ const CONFIG = {
     {
       title: "Twisted differential operators in several variables",
 
-  thumbnail: "https://img.lemde.fr/2019/05/17/87/0/3553/2368/1440/960/60/0/74a2a9f_91ae3c37d18b44d4ae49147a7b9a2126-91ae3c37d18b44d4ae49147a7b9a2126-0.jpg",
+  thumbnail: "https://raw.githubusercontent.com/PierreHouedry/pierrehouedry.github.io/equation.png",
   link: "https://arxiv.org/abs/2303.07756",
   publishedAt: "2023",
   description: "",
