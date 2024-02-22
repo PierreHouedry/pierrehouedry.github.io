@@ -60,7 +60,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://docs.google.com/viewer?url=https://raw.githubusercontent.com/PierreHouedry/pierrehouedry.github.io/CV_Pierre_Houedry_ENG_Academics.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://raw.githubusercontent.com/PierreHouedry/pierrehouedry.github.io/CV_Pierre_Houedry_ENG_Academics.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
   'Mathematics','Problem solving','Scientific Communication','Tensorflow','Python','Machine Learning', 'Deep Learning','Scikit-Learn','Research','Cryptography'
