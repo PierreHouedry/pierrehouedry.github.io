@@ -60,7 +60,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://plmbox.math.cnrs.fr/lib/55dea0fd-bde1-4d3e-83d0-e6ec8492c88a/file/CV_Pierre_Houedry_ENG_Academics.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://plmbox.math.cnrs.fr/f/12b875ab4b824886bec8/', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
   'Mathematics','Problem solving','Scientific Communication','Tensorflow','Python','Machine Learning', 'Deep Learning','Scikit-Learn','Research','Cryptography'
