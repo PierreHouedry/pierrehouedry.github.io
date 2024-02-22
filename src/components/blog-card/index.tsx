@@ -54,13 +54,13 @@ const BlogCard = ({
               <div className="w-full">
                 <div className="flex items-start px-4">
                   <div className="text-center md:text-left w-full">
-                    <h2 className="font-semibold text-base-content opacity-60">
+                    <h2 className="font-semibold text-base-content opacity-70">
                       {article.title}
                     </h2>
                     <p className="text-base-content opacity-20 text-xs">
                         {article.publishedAt}
                     </p>
-                    <p className="mt-3 text-base-content text-opacity-20 text-sm">
+                    <p className="mt-3 text-base-content text-opacity-50 text-sm">
                       {article.description}
                     </p>
                     <div className="mt-4 flex items-center flex-wrap justify-center md:justify-start">
