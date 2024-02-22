@@ -57,7 +57,7 @@ const BlogCard = ({
                     <h2 className="font-semibold text-base-content opacity-70">
                       {article.title}
                     </h2>
-                    <p className="text-base-content opacity-20 text-xs">
+                    <p className="text-base-content opacity-60 text-xs">
                         {article.publishedAt}
                     </p>
                     <p className="mt-3 text-base-content text-opacity-50 text-sm">
