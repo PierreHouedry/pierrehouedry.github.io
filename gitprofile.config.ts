@@ -63,12 +63,12 @@ const CONFIG = {
       'https://plmbox.math.cnrs.fr/f/12b875ab4b824886bec8/', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-  'Mathematics','Problem solving','Scientific Communication','Tensorflow','Python','Machine Learning', 'Deep Learning','Scikit-Learn','Research','Cryptography'
+  'Mathematics','PyTorch','Problem solving','Scientific Communication','Tensorflow','Python','Machine Learning', 'Deep Learning','Scikit-Learn','Research','Cryptography'
   ],
   experiences: [
     {
       company: 'University of Rennes',
-      position: 'Research Engineer',
+      position: 'Postdoctoral Researcher',
       from: 'October 2023',
       to: 'Present',
       companyLink: '',
