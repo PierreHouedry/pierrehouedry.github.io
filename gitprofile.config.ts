@@ -67,10 +67,17 @@ const CONFIG = {
   ],
   experiences: [
     {
+      company: 'IRISA Vannes',
+      position: 'Postdoctoral Researcher',
+      from: 'October 2024',
+      to: 'present',
+      companyLink: '',
+    },
+    {
       company: 'University of Rennes',
       position: 'Postdoctoral Researcher',
-      from: 'October 2023',
-      to: 'Present',
+      from: '2023',
+      to: '2024',
       companyLink: '',
     },
   ],
