@@ -179,10 +179,10 @@ const CONFIG = {
   enablePWA: true,
   articles: [ 
     {
-      title: "Twisted differential operators in several variables",
+      title: "Twisted calculus in several variables",
 
   thumbnail: "https://info.arxiv.org/brand/images/brand-logomark-dark-mode.jpg",
-  link: "https://arxiv.org/abs/2303.07756",
+  link: "https://arxiv.org/abs/2309.13277",
   publishedAt: "2023",
   description: "",
   categories: ["Arithmetic Geometry"],
